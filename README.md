@@ -9,8 +9,14 @@ My name is Yeuner. I am an Amazon computer scientist with a passion for all thin
 - 🔭 I’ve been fully focused on internal company projects lately, so I’m now taking the time to build repositories and showcase my skills publicly.
 - 🌱 I will soon be uploading repositories with more complex data analysis, combining different datasets and applying various data science methodologies.
 - Outside of tech: I enjoy 💪 working out, 🎮 playing video games, 🎵 listening to music, and 📖 reading science books.
--📫 Reach out to me at: yeuner13@gmail.com
-- LinkedIn: https://www.linkedin.com/in/yeuner/
+
+## 📫 Contact Me
+
+[![Gmail](https://img.shields.io/badge/GMAIL-CLICK%20TO%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeuner13@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-VIEW%20PROFILE-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeuner/)
+
+
+
 
 ## My Skills Include
 
