@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-My name is Yeuner. I am an Amazon computer scientist with a passion for all things Python, SQL, and data science.
+My name is Yeuner. I am an Amazon **Data Analyst** with a passion for all things Python, SQL, and data science.
 
 
 - I enjoy working with data.
