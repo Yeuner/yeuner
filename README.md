@@ -5,11 +5,12 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 My name is Yeuner. I am an Amazon **Data Analyst** with a passion for all things Python, SQL, and data science.
+🔗 [**BA Portfolio**](https://github.com/Yeuner/DataAnalystPortfolio)
 
 
 - I enjoy working with data.
 - I'm currently refreshing my web development skills using **React** framework and exploring **Astro** and **Svelte** for more modern, fast-loading web experiences.
-- Soon, I will be deploying my personal portfolio using these technologies to showcase my projects and growth journey.
+- Soon, I will be deploying my personal portfolio using these technologies to showcase my projects and growth journey. 
 - I will soon be uploading repositories with more complex data analysis, combining different datasets and applying various data science methodologies.
 - Outside of tech: I enjoy 💪 working out, 🎮 playing video games, 🎵 listening to music, and 📖 reading science books.
   
